@@ -10,7 +10,7 @@
 
     <groupId>org.codeartisans</groupId>
     <artifactId>org.json</artifactId>
-    <version>20130603</version>
+    <version>20130604-SNAPSHOT</version>
 
     <name>${project.artifactId}</name>
     <packaging>jar</packaging>
